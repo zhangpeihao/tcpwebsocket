@@ -18,7 +18,7 @@
 // validation. It is the application's responsibility to validate the contents
 // of text messages.
 
-package zwebsocket
+package tcpwebsocket
 
 import (
 	"io"
